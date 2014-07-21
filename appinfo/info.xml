@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<info>
+	<id>user_servervars</id>
+	<name>Login with server's variables</name>
+	<description>
+		Authentication and provisioning through HTTP server variables
+		mapped in PHP such as $_SERVER['REMOTE_USER'], $MELLON
+		(mod_mellon)...
+	</description>
+	<version>0.1</version>
+	<licence>AGPL</licence>
+	<author>Jean-Jacques Puig</author>
+	<require>5.0.6</require>
+	<types>
+		<authentication />
+	</types>
+</info>

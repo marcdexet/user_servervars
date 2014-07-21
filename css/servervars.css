@@ -1,0 +1,10 @@
+#servervarsSettings fieldset{
+    border-bottom: 1px solid #DDD;
+    border-left: 1px solid #DDD;
+    border-right: 1px solid #DDD;
+    margin-bottom: 10px;
+}
+
+#servervarsSettings input[type="text"] {
+    margin-left: 15px;
+}

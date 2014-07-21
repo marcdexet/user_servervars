@@ -1,0 +1,7 @@
+CHANGELOG
+=========
+
+Version 0.1 (Tested with OwnCloud 5.0.6)
+----------------------------------------
+
+* Initial plugin
